@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
 
-<p>"Welcome to my GitHub profile! Here, you'll discover my projects. I'm interested in coding and exploring new technologies. Feel free to explore my repositories, and I hope you find something inspiring!"</p>
+<p>Welcome to my GitHub profile! Here, you'll discover my projects. I'm interested in coding and exploring new technologies. Feel free to explore my repositories, and I hope you find something inspiring!</p>
 
 - 📫Currently learning **React.js**
 - ⚡Planning to learn **Next.js, TypeScript**
