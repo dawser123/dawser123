@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dawid Serafin</h1>
+<h1 align="center">Hi 👋, I'm Dawid</h1>
 <h3 align="center">Future Front-End Developer</h3>
 
 - 📫Currently learning **React.js**
