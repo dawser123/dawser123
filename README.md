@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dawid</h1>
-<h3 align="center">Future Front-End Developer</h3>
+
+<p>"Welcome to my GitHub profile! Here, you'll discover my projects. I'm interested in coding and exploring new technologies. Feel free to explore my repositories, and I hope you find something inspiring!"</p>
 
 - 📫Currently learning **React.js**
-- ⚡Planning to learn **Next.js**
+- ⚡Planning to learn **Next.js, TypeScript**
 - 💡I like to learn new technologies, and explore new trends
 
 <h3 align="left">Languages and Tools:
