@@ -18,6 +18,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,firebase" />
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript" />
   </a>
 </p>
